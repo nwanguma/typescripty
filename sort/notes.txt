@@ -1,0 +1,5 @@
+Learned about concurrently, which is an npm package that lets us run multiple scripts.
+
+We use concurrently like so npm:start:* where the * refers to any text after the :
+
+In the case of my sort project, I have two alternate start scripts start:build and start:run
